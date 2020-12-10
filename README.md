@@ -2,5 +2,5 @@
 
 ```
 npm install @dongnguyen/aboutme --global
-then type in command line aboutme that will show a little bit information about me 
+then type in command line "aboutme" that will show a little bit information about me 
 ```
