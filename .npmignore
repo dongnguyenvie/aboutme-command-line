@@ -1,0 +1,7 @@
+  
+/node_modules
+/src
+/test
+/coverage
+/__mocks__
+/rollup.config.ts
